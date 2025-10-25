@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Multi-Tool",
+  "description": "An advanced web application showcasing the power of the Gemini API through three distinct workflows: versatile content analysis, real-time search-grounded information retrieval, and location-aware maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
